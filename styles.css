@@ -1,0 +1,25 @@
+p{
+    text-align: center;
+}
+.IMAGE{
+    display: block;
+    width: 100%;
+    margin: auto;
+}
+ ul{
+     border: 5px dashed;
+     text-align: center;
+     list-style: none;
+     padding-right: 0%;
+     width: 50%;
+     margin: auto;
+ }
+ ul li {
+     border: 3px outset;
+     display: inline-block;
+ }
+#pic1 {
+    display: block;
+    width: 100%;
+    margin: auto;
+}
