@@ -3,7 +3,7 @@ p{
 }
 .IMAGE{
     display: block;
-    width: 100%;
+    width: 20%;
     margin: auto;
 }
  ul{
@@ -11,7 +11,7 @@ p{
      text-align: center;
      list-style: none;
      padding-right: 0%;
-     width: 50%;
+     width: 20%;
      margin: auto;
  }
  ul li {
